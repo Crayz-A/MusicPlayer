@@ -6,7 +6,7 @@
 #### ایجاد محیط مجازی
 با استفاده از دستور زیر محیط مجازی ایجاد کنید
 ```python -m venv env .\env\Scripts\activate.ps1```
-![Music player](https://github.com/PaulleDemon/tkVideoPlayer/blob/master/videoplayer_screenshot.png?raw=True](https://media.geeksforgeeks.org/wp-content/uploads/20240610153735/Project-Structure---Music-Player.png)](https://media.geeksforgeeks.org/wp-content/uploads/20240610153735/Project-Structure---Music-Player.png)
+![Music](https://media.geeksforgeeks.org/wp-content/uploads/20240610153735/Project-Structure---Music-Player.png)
 
 #### کتابخانه های Nesseaccary را نصب کنید
 ```
